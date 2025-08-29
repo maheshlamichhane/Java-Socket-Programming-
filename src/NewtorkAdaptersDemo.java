@@ -3,7 +3,7 @@ import java.net.SocketException;
 import java.util.Collections;
 import java.util.Enumeration;
 
-public class Two_NewtorkAdapters {
+public class NewtorkAdaptersDemo {
 
     public static void main(String[] args) throws SocketException {
 

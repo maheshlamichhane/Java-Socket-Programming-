@@ -1,6 +1,6 @@
 import java.net.MalformedURLException;
 import java.net.URL;
-public class URLDEMO {
+public class URLDemo {
 
     public static void main(String[] args) throws MalformedURLException {
         String web = "https://en.wikipedia.org/wiki/URL#Citations";

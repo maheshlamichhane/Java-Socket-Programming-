@@ -3,14 +3,14 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class ServerSocket {
+public class TcpSocketServer {
 
     private static java.net.ServerSocket myServerSocket;
     private static final int PORT = 1234;
 
     public static void main(String[] args) throws IOException {
 
-        System.out.println("Opening port... "+PORT + "\n");
+        System.out.println("Ope9ning port... "+PORT + "\n");
         try {
             myServerSocket = new java.net.ServerSocket(PORT);
         }catch (IOException ioException){

@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.*;
 import java.util.Scanner;
 
-public class ClientUDPSocket {
+public class UdpSocketClient {
 
     private static InetAddress host;
 

@@ -6,7 +6,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 
-public class One_ReadingFile {
+public class FileReadingDemo {
     public static void main(String[] args) throws IOException {
 
 //        InetAddress oscalyWebsite = InetAddress.getByName("www.ocsaly.com");

@@ -5,7 +5,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
-public class ClientSocket2 {
+public class TcpSocketClient {
 
     private static InetAddress host;
     private static final int PORT = 1234;

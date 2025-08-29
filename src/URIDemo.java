@@ -1,7 +1,7 @@
 import java.net.URI;
 import java.net.URISyntaxException;
 
-public class Three_URL {
+public class URIDemo {
 
     public static void main(String[] args) throws URISyntaxException {
         URI webURI = new URI("https","en.wikipedia.org","/wiki/Wikipedia:About","wikipedia");

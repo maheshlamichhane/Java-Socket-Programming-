@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-public class ServerUDPSocket2 {
+public class UdpSocketServer {
 
     private static final int PORT = 2082;
     private static DatagramSocket datagramSocket;
